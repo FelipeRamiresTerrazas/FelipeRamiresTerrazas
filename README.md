@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Felipe Ramires Terrazas
 
-### 🚀 Aspiring Data Engineer & Data Analyst
+### 🚀 AI and Analytics Manager, Data Scientist, Analyst and Engineer
 
 I enjoy working with data, building structured solutions, and turning raw information into insights that support better decisions. My interests are centered around **data engineering, analytics, automation, and practical software projects** that improve the way information is collected, processed, and presented.
 
