@@ -1,53 +1,38 @@
-# 👋 Hi, I'm Felipe Ramires Terrazas
+# Hi, I'm Felipe Ramires Terrazas
 
-### 🚀 AI and Analytics Manager, Data Scientist, Analyst and Engineer
+### Data Scientist | Analytics Manager | Data Engineer | Product-minded Builder
 
-I enjoy working with data, building structured solutions, and turning raw information into insights that support better decisions. My interests are centered around **data engineering, analytics, automation, and practical software projects** that improve the way information is collected, processed, and presented.
+I work at the intersection of data, analytics, and software. I enjoy turning raw information into useful insights, reliable workflows, and practical digital products that support better decisions.
 
-I'm continuously growing my experience with tools used across the data workflow — from **data preparation and transformation** to **analysis, dashboards, and application development**. I like projects that combine technical problem-solving with real-world usefulness.
+## About me
 
-🔗 Check out my work and connect with me through the repositories below.
-
----
-
-## 📊 About Me
-
-- 📈 Focused on **data engineering and data analysis**
-- 🛠 Interested in building reliable data workflows and useful analytics tools
+- 📊 Focused on data engineering, analytics, and decision support
+- 🧠 Interested in structured data workflows, dashboards, and automation
 - 💻 Comfortable working across software, web, and data-oriented projects
-- 🌱 Always learning more about **Python, SQL, automation, dashboards, and cloud-based workflows**
+- 📈 Always learning more about Python, SQL, analytics tooling, and modern data workflows
 
 ---
 
-## 🚀 Featured Projects
+## Portfolio overview
 
-### 💸 Finance App
-A personal project for manually tracking expenses and organizing financial information. This project reflects my interest in working with structured data and building tools that help transform everyday records into clearer financial visibility.
+Here are the main repositories in my GitHub profile, representing different areas of my work and interests:
 
-**Repo:** `financeapp`
-
-### 🌐 Professional Website
-A personal website project used to present professional information, experience, and online presence. It highlights front-end development skills while supporting a stronger personal brand and portfolio.
-
-**Repo:** `professionalwebsite`
-
-### 📊 Veritas Analytics Website
-A website project for Veritas Analytics that aligns closely with my interest in analytics and presenting data-focused work in a clear, professional format.
-
-**Repo:** `vawebsite`
-
-### 🎲 Wargaming App
-An application project built with TypeScript that demonstrates experience building interactive software systems and working with application structure, logic, and front-end functionality.
-
-**Repo:** `wargamingapp`
+- [financeapp](https://github.com/FelipeRamiresTerrazas/financeapp) — Personal finance tracker for managing expenses and organizing financial information.
+- [professionalwebsite](https://github.com/FelipeRamiresTerrazas/professionalwebsite) — Personal portfolio website used to present experience, projects, and online presence.
+- [vawebsite](https://github.com/FelipeRamiresTerrazas/vawebsite) — Website project for Veritas Analytics, built with a professional data-focused style.
+- [wargamingapp](https://github.com/FelipeRamiresTerrazas/wargamingapp) — TypeScript-based application project exploring software structure, logic, and front-end behavior.
+- [economia-mandatos](https://github.com/FelipeRamiresTerrazas/economia-mandatos) — Public-facing site focused on economic and mandates-related content.
+- [vanguarda44](https://github.com/FelipeRamiresTerrazas/vanguarda44) — Project repository tied to a brand/initiative with a more structured presentation layer.
+- [cv](https://github.com/FelipeRamiresTerrazas/cv) — My resume and professional profile in LaTeX format.
+- [FelipeRamiresTerrazas](https://github.com/FelipeRamiresTerrazas/FelipeRamiresTerrazas) — This profile repository, used as a landing page for my GitHub presence.
 
 ---
 
-## 🧰 Languages & Tools
+## Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -56,24 +41,25 @@ An application project built with TypeScript that demonstrates experience buildi
 
 ---
 
-## 📌 Current Focus
+## Current focus
 
-- Strengthening my path in **data engineering**
-- Expanding hands-on work in **analytics and reporting**
-- Building projects that combine **data, usability, and real-world value**
-- Developing a stronger portfolio around **data-driven solutions**
-
----
-
-## 📈 GitHub Stats
-
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeRamiresTerrazas&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRamiresTerrazas&layout=compact&theme=tokyonight)
+- Strengthening my work in data engineering and analytics pipelines
+- Building practical tools that combine data, usability, and business value
+- Expanding my portfolio around data-driven products and digital experiences
+- Growing my capabilities in automation, reporting, and applied data science
 
 ---
 
-## 📫 Let's Connect
+## GitHub stats
+
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeRamiresTerrazas&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRamiresTerrazas&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## Let's connect
 
 - GitHub: [@FelipeRamiresTerrazas](https://github.com/FelipeRamiresTerrazas)
-- Explore my repositories to see what I'm building next
+- Explore the repositories above to see current projects and ongoing work.
+
